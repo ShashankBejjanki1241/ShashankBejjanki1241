@@ -7,10 +7,9 @@
 <p align="center">iOS Developer | Swift UI Enthusiast | Continuous Learner</p>
 
 <p align="center">
-  <a href="https://twitter.com/yourtwitterhandle">
-    <img src="https://img.shields.io/twitter/follow/yourtwitterhandle?style=social" alt="Twitter Follow">
+  
   </a>
-  <a href="https://www.linkedin.com/in/yourlinkedinprofile">
+  <a href="www.linkedin.com/in/shashank-bejjanki-87765b292">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
   </a>
 </p>
