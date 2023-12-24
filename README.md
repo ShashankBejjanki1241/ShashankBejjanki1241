@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Shashank's Profile Image" width="200"/>
+  <img src="https://media.giphy.com/media/xut6S3obZCtSFDYymd/giphy.gif" alt="Shashank's Profile Image" width="200"/>
 </p>
 
 <h1 align="center">Hello, I'm Shashank! 👋</h1>
