@@ -19,7 +19,7 @@
 ## 🚀 What I Do
 
 - 💻 **Programming Languages:** Objective-C, Swift, Python, SQL, HTML5
-- 🌐 **Database/Cloud:** Core Data, MongoDB, SQL Server, Microsoft Azure, AWS 
+- 🌐 **Database/Cloud:** Core Data, MongoDB, SQLite, Microsoft Azure, AWS 
 - 🛠️ **Development and Tools:** Xcode, iOS (UIKit, SwiftUI), iOS SDK, Interface Builder, Visual Studio Code
 - 🏛️ **Architecture:** MVC, MVVM, MVP
 - ☁️ **Backend Services:** Firebase (Authentication, Firestore, Cloud Functions)
@@ -27,7 +27,7 @@
 
 ## 🌱 What I'm Learning
 
-I believe in continuous improvement and staying up-to-date with the latest in iOS development. Currently, I'm honing my skills in [Specific Area or Technology], exploring new ways to enhance user experiences and build even more creative apps.
+I believe in continuous improvement and staying up-to-date with the latest in iOS development. Currently, I'm honing my skills as an iOS Developer, exploring new ways to enhance user experiences and build even more creative apps.
 
 ## 🔧 My Toolbox
 
@@ -38,13 +38,12 @@ I believe in continuous improvement and staying up-to-date with the latest in iO
 
 ## 🌍 Open Source Contributions
 
-I'm a firm believer in the power of collaboration. You can find my contributions on [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/yourusername). Let's connect, share ideas, and contribute to the thriving iOS development community!
+I'm a firm believer in the power of collaboration. You can find my contributions on [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/ShashankBejjanki1241). Let's connect, share ideas, and contribute to the thriving iOS development community!
 
 ## 📫 Let's Connect
 
-- 🐦 [Your Twitter Handle](https://twitter.com/yourtwitterhandle)
 - 📧 [Email](mailto:shashank.bejj1241@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/yourlinkedinprofile)
-- 🌐 [Your Personal Website or Blog](https://www.yourwebsite.com)
+- 💼 [LinkedIn Profile](www.linkedin.com/in/shashank-bejjanki-87765b292)
+
 
 Excited about the endless possibilities in the iOS world, I'm always open to new challenges and opportunities. Let's build extraordinary apps together! 📱✨
