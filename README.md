@@ -1,49 +1,118 @@
+<!-- PROFILE HEADER -->
+
+<h1 align="center">Hey there! 👋 I'm <span style="color:#0db8de">Shashank Bejjanki</span></h1>
+
 <p align="center">
-  <img src="https://media.giphy.com/media/xut6S3obZCtSFDYymd/giphy.gif" alt="Shashank's Profile Image" width="200"/>
+  🌟 <strong>Web & Mobile Application Developer</strong> • ☁️ <strong>Cloud Engineer</strong> • 🤖 <strong>AI Explorer</strong> <br/>
+  <i>Turning ideas into scalable, smart, and stunning digital experiences.</i>
 </p>
 
-<h1 align="center">Hello, I'm Shashank! 👋</h1>
-
-<p align="center">iOS Developer | Swift UI Enthusiast | Continuous Learner</p>
-
 <p align="center">
-  
+  <a href="https://www.linkedin.com/in/b-shashank-87765b292" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/shashank-bejjanki-87765b292">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue" alt="LinkedIn Connect">
+  <a href="mailto:shashank.bejj1241@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-ContactMe-green?logo=gmail&style=for-the-badge"/>
+  </a>
+  <a href="https://github.com/ShashankBejjanki1241">
+    <img alt="GitHub" src="https://img.shields.io/github/followers/shashank1241?label=Follow&style=for-the-badge"/>
   </a>
 </p>
 
 ---
 
-## 🚀 What I Do
+## 🧑‍💻 About Me
 
-- 💻 **Programming Languages:** Objective-C, Swift, Python, SQL, HTML5
-- 🌐 **Database/Cloud:** Core Data, MongoDB, SQLite, Microsoft Azure, AWS 
-- 🛠️ **Development and Tools:** Xcode, iOS (UIKit, SwiftUI), iOS SDK, Interface Builder, Visual Studio Code
-- 🏛️ **Architecture:** MVC, MVVM, MVP
-- ☁️ **Backend Services:** Firebase (Authentication, Firestore, Cloud Functions)
-- 🔄 **Version Control:** Git
+```yaml
+name: Shashank Bejjanki
+role: Full-Stack Developer (iOS + Web)
+focus: Cloud Engineering | Smart AI | App Design
+status: Open to freelance, full-time roles, and collabs!
+```
 
-## 🌱 What I'm Learning
+---
 
-I believe in continuous improvement and staying up-to-date with the latest in iOS development. Currently, I'm honing my skills as an iOS Developer, exploring new ways to enhance user experiences and build even more creative apps.
+## 🛠️ My Stack
 
-## 🔧 My Toolbox
+### 💻 Languages
+`Swift` • `Objective-C` • `Python` • `JavaScript` • `TypeScript` • `SQL` • `HTML/CSS`
 
-- ⚙️ **Favorite Tools and IDEs:** Xcode, Visual Studio Code
-- 🚀 **Frameworks:** SwiftUI for modern UI development
-- 📊 **Database Magic:** Core Data for local storage, MongoDB, SQL Server, and cloud platforms like Firebase
-- 🧠 **Architectural Styles:** MVC, MVVM, MVP
+### 🧱 Front-End
+`SwiftUI` • `UIKit` • `React` • `Next.js` • `Tailwind CSS` • `Bootstrap`
 
-## 🌍 Open Source Contributions
+### 🔗 Back-End
+`Node.js` • `Express` • `Firebase Functions` • `Azure Functions` • `MongoDB` • `PostgreSQL`
 
-I'm a firm believer in the power of collaboration. You can find my contributions on [![GitHub](https://img.shields.io/github/followers/yourusername?label=Follow&style=social)](https://github.com/ShashankBejjanki1241). Let's connect, share ideas, and contribute to the thriving iOS development community!
+### ☁️ Cloud Platforms
+`Firebase` • `AWS (Lambda, S3, EC2, RDS)` • `Microsoft Azure` • `Cloudflare` • `Netlify`
 
-## 📫 Let's Connect
+### 🤖 AI/ML & Tools
+`CoreML` • `TensorFlow Lite` • `OpenAI API` • `LangChain` • `Python NLP` • `LLM Fine-Tuning`
 
-- 📧 [Email](mailto:shashank.bejj1241@gmail.com)
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/shashank-bejjanki-87765b292)
+### 🧰 Dev Tools
+`Git` • `GitHub Actions` • `Xcode` • `VS Code` • `Postman` • `Docker` (beginner) • `Figma` • `Notion`
 
+---
 
-Excited about the endless possibilities in the iOS world, I'm always open to new challenges and opportunities. Let's build extraordinary apps together! 📱✨
+## 🚀 Projects That Speak
+
+📱 **SmartNote AI**  
+> AI-powered iOS app for note-taking with GPT, voice-to-text, and contextual search.
+
+🌐 **DevConnect**  
+> Social platform built with React + Firebase to help devs collaborate globally.
+
+📊 **FitLife**  
+> A sleek fitness tracker app using Apple HealthKit and clean MVVM architecture.
+
+📽️ **CodePlayground (Coming Soon)**  
+> Full-stack coding sandbox with TypeScript, Monaco Editor, and live previewing.
+
+---
+
+## 🔭 On My Radar
+
+- AI-powered developer tools with LangChain & Agents
+- Real-time collaboration via WebSockets + Firestore
+- Cross-platform dev with Flutter & Kotlin Multiplatform
+- CI/CD pipelines with GitHub Actions + Docker + Vercel
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=shashank1241&theme=radical&margin-w=15&margin-h=15&title=Followers,Stars,Commits,Repositories,PullRequest"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashank1241&show_icons=true&theme=radical&hide_title=true&count_private=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank1241&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 💬 Let's Connect & Build!
+
+🚀 I'm always excited about:
+- Building meaningful apps 🌱
+- Exploring new stacks 🚀
+- Open-source collabs 🌍
+- Mentorship & community 💡
+
+<p align="center">
+  <a href="mailto:shashank.bejj1241@gmail.com">
+    <img alt="Email Me" src="https://img.shields.io/badge/📧 Email-grey?style=for-the-badge">
+  </a>
+  <a href="https://www.linkedin.com/in/b-shashank-87765b292">
+    <img alt="LinkedIn Connect" src="https://img.shields.io/badge/💼 LinkedIn-blue?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The intersection of design, code, and AI is where the future is built."</i><br/>
+  <strong>— Shashank Bejjanki | 2025</strong>
+</p>
