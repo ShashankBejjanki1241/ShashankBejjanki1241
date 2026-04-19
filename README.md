@@ -1,9 +1,9 @@
 <!--
   ====================================================================
-   ShashankBejjanki1241 — GitHub Profile README · v1
+   ShashankBejjanki1241 — GitHub Profile README · v2
    Vibe: Dark Terminal × Glassmorphism · Accent: Neon Mint (#3CFFB0)
-   v1 contains ONLY verified info (real repos, real focus, real cert).
-   Personal links + extra certs land in v2 (see .github/V2_TODO.md).
+   Verified repos + stack; connect bar is intentionally minimal; certs
+   link to issuer pages. Optional extras tracked in .github/V2_TODO.md.
   ====================================================================
 -->
 
@@ -59,7 +59,7 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 
 <br/>
 
-<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  CONNECT (v2)  ░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░  CONNECT  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
@@ -68,18 +68,14 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 <a href="https://github.com/ShashankBejjanki1241">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<!-- v2: links below activate after you fill .github/V2_TODO.md -->
-<a href="#-coming-in-v2">
-  <img src="https://img.shields.io/badge/LinkedIn-coming_soon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn (v2)"/>
+<a href="https://learn.microsoft.com/en-us/users/shashankb-1991/">
+  <img src="https://img.shields.io/badge/Microsoft_Learn-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Learn profile"/>
 </a>
-<a href="#-coming-in-v2">
-  <img src="https://img.shields.io/badge/Email-coming_soon-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email (v2)"/>
+<a href="https://www.kaggle.com/shashankbejjanki">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"/>
 </a>
-<a href="#-coming-in-v2">
-  <img src="https://img.shields.io/badge/Resume-coming_soon-3CFFB0?style=for-the-badge&logo=readthedocs&logoColor=black" alt="Resume (v2)"/>
-</a>
-<a href="#-coming-in-v2">
-  <img src="https://img.shields.io/badge/Credly-coming_soon-FF6B00?style=for-the-badge&logo=credly&logoColor=white" alt="Credly (v2)"/>
+<a href="https://huggingface.co/learn">
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face Learn"/>
 </a>
 
 </div>
@@ -224,16 +220,25 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 <table align="center">
 <tr>
 
-<td align="center" width="180">
-  <a href="https://learn.microsoft.com/en-us/credentials/certifications/azure-developer/" target="_blank">
+<td align="center" width="200">
+  <a href="https://learn.microsoft.com/en-us/users/shashankb-1991/credentials/bcab774e839b4c22" target="_blank" rel="noopener noreferrer">
     <img src="https://learn.microsoft.com/media/learn/certification/badges/azure-developer-associate-600x600.svg" width="120" alt="Microsoft Certified: Azure Developer Associate (AZ-204)"/>
   </a>
   <br/><sub><b>Microsoft Certified<br/>Azure Developer<br/>Associate · AZ-204</b></sub>
 </td>
 
-<td align="center" width="180">
-  <img src="https://img.shields.io/badge/More_certifications-coming_in_v2-3CFFB0?style=for-the-badge&logo=credly&logoColor=black&labelColor=0F172A" alt="More certifications in v2"/>
-  <br/><sub><b>Credly profile + additional<br/>certifications land in v2.</b></sub>
+<td align="center" width="200">
+  <a href="https://www.kaggle.com/shashankbejjanki" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Kaggle-Certificates-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0F172A" height="48" alt="Kaggle profile and certificates"/>
+  </a>
+  <br/><sub><b>Kaggle<br/>courses &amp; certificates</b></sub>
+</td>
+
+<td align="center" width="220">
+  <a href="https://huggingface.co/learn" target="_blank" rel="noopener noreferrer">
+    <img src="assets/certifications/huggingface-certificate.png" width="200" alt="Hugging Face certificate"/>
+  </a>
+  <br/><sub><b>Hugging Face<br/>course completion</b></sub>
 </td>
 
 </tr>
