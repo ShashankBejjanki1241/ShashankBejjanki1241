@@ -13,7 +13,7 @@
 - [ ] **LinkedIn** — omitted in v2 by request
 - [ ] **Resume / CV PDF** — omitted in v2 by request
 - [ ] **X (Twitter)** — omitted in v2 by request
-- [ ] **Stable Kaggle certificate image URL** — `https://www.kaggle.com/certification/badges/shashankbejjanki/105` returned **404** when fetched anonymously; profile link is used instead. If you have a public badge image URL from Kaggle, paste it here and swap the Kaggle cell in `README.md`.
+- [ ] **Kaggle badge asset** — The `/certification/badges/.../105` URL is an **HTML page**, not an image, so the README uses the embedded badge SVG checked in as `assets/certifications/kaggle-5-day-ai-agents-intensive.svg` and links to that certificate page.
 - [ ] **Hugging Face course link** — the certificate image links to `https://huggingface.co/learn` for now. Replace with your exact course or Academia URL if you prefer.
 
 ## Optional widgets / copy

@@ -228,10 +228,10 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 </td>
 
 <td align="center" width="200">
-  <a href="https://www.kaggle.com/shashankbejjanki" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Kaggle-Certificates-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white&labelColor=0F172A" height="48" alt="Kaggle profile and certificates"/>
+  <a href="https://www.kaggle.com/certification/badges/shashankbejjanki/105" target="_blank" rel="noopener noreferrer">
+    <img src="assets/certifications/kaggle-5-day-ai-agents-intensive.svg" width="120" height="120" alt="Kaggle · 5-Day AI Agents Intensive certificate badge"/>
   </a>
-  <br/><sub><b>Kaggle<br/>courses &amp; certificates</b></sub>
+  <br/><sub><b>Kaggle<br/>5-Day AI Agents Intensive</b></sub>
 </td>
 
 <td align="center" width="220">
