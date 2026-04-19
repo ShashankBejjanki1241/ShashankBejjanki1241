@@ -411,7 +411,14 @@ storage, automated HTML/CSV reports — concurrency, scheduling, alerting.
 
 ## `~/dev-quote`
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random dev quote"/>
+<sub><code>$ typist --source ~/.quotes --theme mint --loop</code></sub>
+
+<br/><br/>
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3800&pause=1400&color=3CFFB0&center=true&vCenter=true&multiline=false&width=880&height=50&lines=%24%20When%20something%20is%20important%20enough%2C%20you%20do%20it%20anyway%20%E2%80%94%20Elon%20Musk%3B%24%20Innovation%20distinguishes%20between%20a%20leader%20and%20a%20follower%20%E2%80%94%20Steve%20Jobs%3B%24%20Talk%20is%20cheap.%20Show%20me%20the%20code%20%E2%80%94%20Linus%20Torvalds%3B%24%20First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code%20%E2%80%94%20John%20Johnson%3B%24%20The%20most%20dangerous%20phrase%20is%20%27We%20have%20always%20done%20it%20this%20way%27%20%E2%80%94%20Grace%20Hopper%3B%24%20The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%20%E2%80%94%20Alan%20Kay"
+  alt="Rotating typed quotes — Musk, Jobs, Torvalds, Johnson, Hopper, Kay"
+/>
 
 </div>
 
