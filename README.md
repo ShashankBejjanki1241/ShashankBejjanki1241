@@ -252,7 +252,7 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShashankBejjanki1241&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3CFFB0&icon_color=3CFFB0&text_color=E2E8F0" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShashankBejjanki1241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=3CFFB0&icon_color=3CFFB0&text_color=E2E8F0" alt="GitHub stats"/>
 <img height="180" src="https://streak-stats.demolab.com/?user=ShashankBejjanki1241&theme=tokyonight&hide_border=true&background=0F172A&ring=3CFFB0&fire=3CFFB0&currStreakLabel=3CFFB0" alt="GitHub streak"/>
 
 </div>
@@ -423,6 +423,6 @@ storage, automated HTML/CSV reports — concurrency, scheduling, alerting.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CFFB0,50:1E293B,100:0F172A&height=120&section=footer&text=%24%20exit%200%20%E2%80%94%20thanks%20for%20visiting&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
 
-<sub>Crafted with care · <code>git push origin always</code></sub>
+<sub>Crafted with care · <code>git push origin always</code> · profile README v2</sub>
 
 </div>
