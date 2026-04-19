@@ -8,7 +8,7 @@
 <div align="center">
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3CFFB0&height=220&section=header&text=Shashank%20Bejjanki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Builder%20%C2%B7%20Learning%20AI%20Engineering&descSize=18&descAlignY=60&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:3CFFB0&height=220&section=header&text=Shashank%20Bejjanki&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20AI%20Builder&descSize=18&descAlignY=60&animation=fadeIn"
   alt="Shashank Bejjanki — banner"
 />
 
