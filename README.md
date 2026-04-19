@@ -1,10 +1,6 @@
 <!--
-  ====================================================================
-   ShashankBejjanki1241 — GitHub Profile README · v2
-   Vibe: Dark Terminal × Glassmorphism · Accent: Neon Mint (#3CFFB0)
-   Verified repos + stack; connect bar is intentionally minimal; certs
-   link to issuer pages. Optional extras tracked in .github/V2_TODO.md.
-  ====================================================================
+  GitHub profile README — ShashankBejjanki1241
+  Accent: #3CFFB0 · Connect + certifications link to issuer pages.
 -->
 
 <!-- ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░  HERO  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░ -->
@@ -222,21 +218,21 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 
 <td align="center" width="200">
   <a href="https://learn.microsoft.com/en-us/users/shashankb-1991/credentials/bcab774e839b4c22" target="_blank" rel="noopener noreferrer">
-    <img src="https://learn.microsoft.com/media/learn/certification/badges/azure-developer-associate-600x600.svg" width="120" alt="Microsoft Certified: Azure Developer Associate (AZ-204)"/>
+    <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" width="120" alt="Microsoft Certified: Azure Developer Associate (AZ-204)"/>
   </a>
   <br/><sub><b>Microsoft Certified<br/>Azure Developer<br/>Associate · AZ-204</b></sub>
 </td>
 
 <td align="center" width="200">
   <a href="https://www.kaggle.com/certification/badges/shashankbejjanki/105" target="_blank" rel="noopener noreferrer">
-    <img src="assets/certifications/kaggle-5-day-ai-agents-intensive.svg" width="120" height="120" alt="Kaggle · 5-Day AI Agents Intensive certificate badge"/>
+    <img src="https://raw.githubusercontent.com/ShashankBejjanki1241/ShashankBejjanki1241/main/assets/certifications/kaggle-5-day-ai-agents-intensive.svg" width="120" height="120" alt="Kaggle · 5-Day AI Agents Intensive certificate badge"/>
   </a>
   <br/><sub><b>Kaggle<br/>5-Day AI Agents Intensive</b></sub>
 </td>
 
 <td align="center" width="220">
   <a href="https://huggingface.co/learn" target="_blank" rel="noopener noreferrer">
-    <img src="assets/certifications/huggingface-certificate.png" width="200" alt="Hugging Face certificate"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-Course_completion-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face course completion"/>
   </a>
   <br/><sub><b>Hugging Face<br/>course completion</b></sub>
 </td>
@@ -263,15 +259,9 @@ philosophy:  "Architecture first. Ship daily. Measure everything."
 
 <br/>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ShashankBejjanki1241&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies"/>
-</div>
-
-<br/>
-
 <!-- Activity contribution graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankBejjanki1241&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=3CFFB0&line=3CFFB0&point=ffffff&area=true&area_color=3CFFB0" alt="Contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShashankBejjanki1241&theme=tokyo-night&hide_border=true&bg_color=0F172A&color=3CFFB0&line=3CFFB0&point=ffffff&area=true&area_color=3CFFB0&custom_title=Contribution%20activity" alt="Contribution activity graph"/>
 </div>
 
 <br/>
@@ -399,7 +389,7 @@ storage, automated HTML/CSV reports — concurrency, scheduling, alerting.
 
 <div align="center">
   <a href="https://github.com/ShashankBejjanki1241?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_44_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
+    <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="View all repositories"/>
   </a>
 </div>
 
@@ -430,6 +420,6 @@ storage, automated HTML/CSV reports — concurrency, scheduling, alerting.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3CFFB0,50:1E293B,100:0F172A&height=120&section=footer&text=%24%20exit%200%20%E2%80%94%20thanks%20for%20visiting&fontSize=18&fontColor=ffffff&fontAlignY=70" alt="Footer"/>
 
-<sub>Crafted with care · <code>git push origin always</code> · profile README v2</sub>
+<sub>Crafted with care</sub>
 
 </div>
